@@ -1,4 +1,4 @@
-# Plantera-Locator
+# Plantera-Locator [TL-Pro]
 
 This Mod allows you to locate Plantera's Bulb in your World, giving you the exact coordinates of where it is.
 
